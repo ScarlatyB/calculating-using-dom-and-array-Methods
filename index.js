@@ -94,7 +94,7 @@ function updateDOM(providaData = data){
  
 }
 
-//event listener =adc usuários aleatórios clicando no botão add users
+//event listener =adc usuários aleatórios clicando no botão add users e evento o resto do botões
 
 addUserBtn.addEventListener('click', getRandonUser);
 doubleBtn.addEventListener('click', doubleMoney);
